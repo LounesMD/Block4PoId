@@ -2,7 +2,7 @@
 ## The PoI blockchain
 
 <p align="center">
-  <img src="PoIScheme.pdf" />
+  <img src="PoIScheme.png" />
 </p>
 
 ## Other
