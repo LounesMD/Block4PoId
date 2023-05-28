@@ -26,3 +26,17 @@ To use our PoI-based blockchain implementation, you need to define the communica
 <p align="center">
   <img src="./Images/ArchitectureLoRaWANWithWithoutBlockchain.png" />
 </p>
+
+## Citing 
+If you use the project in your work, please consider citing it with:
+
+```bibtex
+@misc{Block4PoId,
+  author = {Lounès, Meddahi},
+  title = {Leveraging blockchain for a robust and scalable device identification in LoRaWAN},
+  year = {2022},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/LounesMD/LoraSIM}},
+}
+```
