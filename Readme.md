@@ -27,6 +27,9 @@ To use our PoI-based blockchain implementation, you need to define the communica
   <img src="./Images/ArchitectureLoRaWANWithWithoutBlockchain.png" />
 </p>
 
+## Paper 
+If you'd like to take a look at the preprint, please feel free to do so : [preprint](https://github.com/LounesMD/Block4PoId/blob/main/BlockChainForIOT.pdf).
+
 ## Citing 
 If you use the project in your work, please consider citing it with:
 
