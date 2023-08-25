@@ -28,18 +28,16 @@ To use our PoI-based blockchain implementation, you need to define the communica
 </p>
 
 ## Paper 
-If you'd like to take a look at the preprint, please feel free to do so : [preprint](https://github.com/LounesMD/Block4PoId/blob/main/BlockChainForIOT.pdf).
+The paper has been accepted at [ISNCC'23](https://www.isncc-conf.org/).
 
 ## Citing 
 If you use the project in your work, please consider citing it with:
 
 ```bibtex
 @misc{Block4PoId,
-  author = {Lounès, Meddahi},
+  author = {Lounès, Meddahi and Ahmed, Meddahi and Patrick, Sondi and Fen, Zhou},
   title = {Leveraging blockchain for a robust and scalable device identification in LoRaWAN},
-  year = {2022},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/LounesMD/LoraSIM}},
+  year = {2023},
+  journal = {IEEE 2023 International Symposium on Networks, Computers and Communications (ISNCC'23)},
 }
 ```
